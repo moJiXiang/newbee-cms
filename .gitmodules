@@ -1,0 +1,3 @@
+[submodule "weego-models"]
+	path = weego-models
+	url = git@github.com:moJiXiang/weego-models.git
